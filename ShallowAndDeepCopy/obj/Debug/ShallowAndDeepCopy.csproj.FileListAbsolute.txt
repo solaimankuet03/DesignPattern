@@ -1,0 +1,10 @@
+C:\Learning\Design Patterns\DesignPatterns\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe.config
+C:\Learning\Design Patterns\DesignPatterns\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe
+C:\Learning\Design Patterns\DesignPatterns\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.pdb
+C:\Learning\Design Patterns\DesignPatterns\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.exe
+C:\Learning\Design Patterns\DesignPatterns\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.pdb
+C:\Learning\Git Test\DesignPattern\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe.config
+C:\Learning\Git Test\DesignPattern\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.exe
+C:\Learning\Git Test\DesignPattern\ShallowAndDeepCopy\bin\Debug\ShallowAndDeepCopy.pdb
+C:\Learning\Git Test\DesignPattern\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.exe
+C:\Learning\Git Test\DesignPattern\ShallowAndDeepCopy\obj\Debug\ShallowAndDeepCopy.pdb

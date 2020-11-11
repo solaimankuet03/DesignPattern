@@ -1,0 +1,12 @@
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

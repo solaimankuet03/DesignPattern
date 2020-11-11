@@ -1,0 +1,10 @@
+C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\bin\Debug\StateDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\bin\Debug\StateDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\bin\Debug\StateDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\obj\Debug\StateDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\obj\Debug\StateDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\StateDesignPattern\bin\Debug\StateDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\StateDesignPattern\obj\Debug\StateDesignPattern.pdb

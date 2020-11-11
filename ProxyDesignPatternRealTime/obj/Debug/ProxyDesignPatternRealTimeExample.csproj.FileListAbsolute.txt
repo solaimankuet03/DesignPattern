@@ -1,0 +1,10 @@
+C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.exe.config
+C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.exe
+C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.pdb
+C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPatternRealTime\obj\Debug\ProxyDesignPatternRealTime.exe
+C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPatternRealTime\obj\Debug\ProxyDesignPatternRealTime.pdb
+C:\Learning\Git Test\DesignPattern\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.exe.config
+C:\Learning\Git Test\DesignPattern\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.exe
+C:\Learning\Git Test\DesignPattern\ProxyDesignPatternRealTime\bin\Debug\ProxyDesignPatternRealTime.pdb
+C:\Learning\Git Test\DesignPattern\ProxyDesignPatternRealTime\obj\Debug\ProxyDesignPatternRealTime.exe
+C:\Learning\Git Test\DesignPattern\ProxyDesignPatternRealTime\obj\Debug\ProxyDesignPatternRealTime.pdb

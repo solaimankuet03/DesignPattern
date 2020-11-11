@@ -1,0 +1,12 @@
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb

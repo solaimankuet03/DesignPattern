@@ -1,0 +1,12 @@
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb

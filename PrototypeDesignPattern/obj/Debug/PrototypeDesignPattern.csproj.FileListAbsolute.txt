@@ -1,0 +1,10 @@
+C:\Learning\Design Patterns\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb

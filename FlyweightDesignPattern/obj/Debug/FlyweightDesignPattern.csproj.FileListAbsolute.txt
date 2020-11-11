@@ -1,0 +1,12 @@
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe.config
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.pdb
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.exe
+C:\Learning\Design Patterns\DesignPatterns\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe.config
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.pdb
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.exe
+C:\Learning\Git Test\DesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.pdb

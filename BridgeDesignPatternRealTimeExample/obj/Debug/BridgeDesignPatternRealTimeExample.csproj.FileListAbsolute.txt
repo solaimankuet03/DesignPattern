@@ -1,0 +1,12 @@
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.exe.config
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.csprojResolveAssemblyReference.cache
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.exe
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.pdb
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.exe
+C:\Learning\Design Patterns\DesignPatterns\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.pdb
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.exe.config
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.exe
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\bin\Debug\BridgeDesignPatternRealTimeExample.pdb
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.csprojResolveAssemblyReference.cache
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.exe
+C:\Learning\Git Test\DesignPattern\BridgeDesignPatternRealTimeExample\obj\Debug\BridgeDesignPatternRealTimeExample.pdb
