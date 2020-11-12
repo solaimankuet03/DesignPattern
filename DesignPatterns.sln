@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPattern", "State
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPatternRealTimeExample", "StateDesignPatternRealTimeExample\StateDesignPatternRealTimeExample.csproj", "{08759325-4679-428E-99D6-73394D569DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodDesignPattern", "TemplateMethodDesignPattern\TemplateMethodDesignPattern.csproj", "{AF4A636F-A0FC-44DE-A519-131773540B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodDesignPatternRealTimeExample", "TemplateMethodDesignPatternRealTimeExample\TemplateMethodDesignPatternRealTimeExample.csproj", "{D616CDEE-A97F-4730-A058-DB81D4206CA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{08759325-4679-428E-99D6-73394D569DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08759325-4679-428E-99D6-73394D569DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08759325-4679-428E-99D6-73394D569DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4A636F-A0FC-44DE-A519-131773540B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4A636F-A0FC-44DE-A519-131773540B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4A636F-A0FC-44DE-A519-131773540B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4A636F-A0FC-44DE-A519-131773540B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
