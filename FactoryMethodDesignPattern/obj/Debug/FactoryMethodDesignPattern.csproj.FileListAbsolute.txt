@@ -4,3 +4,9 @@ C:\Learning\Design Patterns\DesignPatterns\FactoryMethodDesignPattern\bin\Debug\
 C:\Learning\Design Patterns\DesignPatterns\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.pdb
 C:\Learning\Design Patterns\DesignPatterns\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.pdb

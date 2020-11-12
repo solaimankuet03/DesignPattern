@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityRealTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPattern", "StateDesignPattern\StateDesignPattern.csproj", "{D3344714-F106-4C14-9D7A-B7AF0C6E95E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPatternRealTimeExample", "StateDesignPatternRealTimeExample\StateDesignPatternRealTimeExample.csproj", "{08759325-4679-428E-99D6-73394D569DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D3344714-F106-4C14-9D7A-B7AF0C6E95E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3344714-F106-4C14-9D7A-B7AF0C6E95E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3344714-F106-4C14-9D7A-B7AF0C6E95E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08759325-4679-428E-99D6-73394D569DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08759325-4679-428E-99D6-73394D569DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08759325-4679-428E-99D6-73394D569DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08759325-4679-428E-99D6-73394D569DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

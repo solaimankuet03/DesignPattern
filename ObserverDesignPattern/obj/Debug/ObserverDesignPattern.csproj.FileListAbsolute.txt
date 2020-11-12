@@ -4,3 +4,9 @@ C:\Learning\Design Patterns\DesignPatterns\ObserverDesignPattern\bin\Debug\Obser
 C:\Learning\Design Patterns\DesignPatterns\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojResolveAssemblyReference.cache
 C:\Learning\Design Patterns\DesignPatterns\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb

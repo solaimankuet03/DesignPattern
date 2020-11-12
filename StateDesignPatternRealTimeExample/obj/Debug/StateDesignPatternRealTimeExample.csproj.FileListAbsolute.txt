@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\bin\Debug\StateDesignPatternRealTimeExample.exe.config
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\bin\Debug\StateDesignPatternRealTimeExample.exe
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\bin\Debug\StateDesignPatternRealTimeExample.pdb
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\obj\Debug\StateDesignPatternRealTimeExample.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\obj\Debug\StateDesignPatternRealTimeExample.exe
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPatternRealTimeExample\obj\Debug\StateDesignPatternRealTimeExample.pdb
