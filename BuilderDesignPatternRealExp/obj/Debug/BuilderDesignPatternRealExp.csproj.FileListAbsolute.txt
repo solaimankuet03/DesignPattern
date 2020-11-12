@@ -3,8 +3,3 @@ C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPatternRealExp\bin\Debug
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPatternRealExp\bin\Debug\BuilderDesignPatternRealExp.pdb
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPatternRealExp\obj\Debug\BuilderDesignPatternRealExp.exe
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPatternRealExp\obj\Debug\BuilderDesignPatternRealExp.pdb
-C:\Learning\Git Test\DesignPattern\BuilderDesignPatternRealExp\bin\Debug\BuilderDesignPatternRealExp.exe.config
-C:\Learning\Git Test\DesignPattern\BuilderDesignPatternRealExp\bin\Debug\BuilderDesignPatternRealExp.exe
-C:\Learning\Git Test\DesignPattern\BuilderDesignPatternRealExp\bin\Debug\BuilderDesignPatternRealExp.pdb
-C:\Learning\Git Test\DesignPattern\BuilderDesignPatternRealExp\obj\Debug\BuilderDesignPatternRealExp.exe
-C:\Learning\Git Test\DesignPattern\BuilderDesignPatternRealExp\obj\Debug\BuilderDesignPatternRealExp.pdb

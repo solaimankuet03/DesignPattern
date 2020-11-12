@@ -4,9 +4,3 @@ C:\Learning\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\FactoryPatte
 C:\Learning\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
 C:\Learning\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
-C:\Learning\Git Test\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
-C:\Learning\Git Test\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
-C:\Learning\Git Test\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
-C:\Learning\Git Test\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
-C:\Learning\Git Test\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache

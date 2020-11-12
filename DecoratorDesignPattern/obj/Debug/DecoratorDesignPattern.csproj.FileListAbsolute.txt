@@ -4,9 +4,3 @@ C:\Learning\Design Patterns\DesignPatterns\DecoratorDesignPattern\bin\Debug\Deco
 C:\Learning\Design Patterns\DesignPatterns\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.pdb
 C:\Learning\Design Patterns\DesignPatterns\DecoratorDesignPattern\obj\Debug\DecoratorDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\DecoratorDesignPattern\obj\Debug\DecoratorDesignPattern.pdb
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.exe.config
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.exe
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.pdb
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\obj\Debug\DecoratorDesignPattern.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\obj\Debug\DecoratorDesignPattern.exe
-C:\Learning\Git Test\DesignPattern\DecoratorDesignPattern\obj\Debug\DecoratorDesignPattern.pdb

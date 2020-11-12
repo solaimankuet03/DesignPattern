@@ -4,9 +4,3 @@ C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPattern\bin\Debug\Builde
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.exe
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.pdb
 C:\Learning\Design Patterns\DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPatternBasic.exe.config
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPatternBasic.exe
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPatternBasic.pdb
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.exe
-C:\Learning\Git Test\DesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPatternBasic.pdb

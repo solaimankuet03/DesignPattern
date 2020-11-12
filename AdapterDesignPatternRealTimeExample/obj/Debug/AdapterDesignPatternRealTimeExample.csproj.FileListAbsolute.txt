@@ -4,9 +4,3 @@ C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPatternRealTimeExample\b
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPatternRealTimeExample\bin\Debug\AdapterDesignPatternRealTimeExample.pdb
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPatternRealTimeExample\obj\Debug\AdapterDesignPatternRealTimeExample.exe
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPatternRealTimeExample\obj\Debug\AdapterDesignPatternRealTimeExample.pdb
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\bin\Debug\AdapterDesignPatternRealTimeExample.exe.config
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\bin\Debug\AdapterDesignPatternRealTimeExample.exe
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\bin\Debug\AdapterDesignPatternRealTimeExample.pdb
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\obj\Debug\AdapterDesignPatternRealTimeExample.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\obj\Debug\AdapterDesignPatternRealTimeExample.exe
-C:\Learning\Git Test\DesignPattern\AdapterDesignPatternRealTimeExample\obj\Debug\AdapterDesignPatternRealTimeExample.pdb
