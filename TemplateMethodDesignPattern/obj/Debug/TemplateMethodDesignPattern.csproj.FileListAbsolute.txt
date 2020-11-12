@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\bin\Debug\TemplateMethodDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\bin\Debug\TemplateMethodDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\bin\Debug\TemplateMethodDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\obj\Debug\TemplateMethodDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\obj\Debug\TemplateMethodDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\TemplateMethodDesignPattern\obj\Debug\TemplateMethodDesignPattern.pdb
