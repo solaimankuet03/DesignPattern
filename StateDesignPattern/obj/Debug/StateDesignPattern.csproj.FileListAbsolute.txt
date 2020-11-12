@@ -3,3 +3,8 @@ C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\bin\Debug\StateDes
 C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\bin\Debug\StateDesignPattern.pdb
 C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\obj\Debug\StateDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\StateDesignPattern\obj\Debug\StateDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPattern\bin\Debug\StateDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPattern\obj\Debug\StateDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPattern\obj\Debug\StateDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPattern\bin\Debug\StateDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\StateDesignPattern\bin\Debug\StateDesignPattern.pdb

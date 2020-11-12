@@ -4,3 +4,9 @@ C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPattern\bin\Debug\ProxyDes
 C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csprojResolveAssemblyReference.cache
 C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb

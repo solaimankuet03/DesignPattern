@@ -4,3 +4,9 @@ C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPattern\bin\Debug\Adapte
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
