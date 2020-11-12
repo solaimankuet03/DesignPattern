@@ -3,8 +3,3 @@ C:\Learning\Design Patterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonP
 C:\Learning\Design Patterns\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
 C:\Learning\Design Patterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.pdb
-C:\Learning\Git Test\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
-C:\Learning\Git Test\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
-C:\Learning\Git Test\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
-C:\Learning\Git Test\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
-C:\Learning\Git Test\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

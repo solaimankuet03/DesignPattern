@@ -4,9 +4,3 @@ C:\Learning\Design Patterns\DesignPatterns\CompositeDesignPattern\bin\Debug\Comp
 C:\Learning\Design Patterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csprojResolveAssemblyReference.cache
 C:\Learning\Design Patterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
 C:\Learning\Design Patterns\DesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe.config
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.pdb
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csprojResolveAssemblyReference.cache
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
-C:\Learning\Git Test\DesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb
