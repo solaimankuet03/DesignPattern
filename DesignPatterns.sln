@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodDesignPattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodDesignPatternRealTimeExample", "TemplateMethodDesignPatternRealTimeExample\TemplateMethodDesignPatternRealTimeExample.csproj", "{D616CDEE-A97F-4730-A058-DB81D4206CA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern", "CommandDesignPattern\CommandDesignPattern.csproj", "{3344F9FC-D4A3-4EDE-A943-89A0E21140F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPatternRealTimeExample", "CommandDesignPatternRealTimeExample\CommandDesignPatternRealTimeExample.csproj", "{A4E94B7D-BB21-4A96-BEBC-FA923165D1BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D616CDEE-A97F-4730-A058-DB81D4206CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3344F9FC-D4A3-4EDE-A943-89A0E21140F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3344F9FC-D4A3-4EDE-A943-89A0E21140F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3344F9FC-D4A3-4EDE-A943-89A0E21140F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3344F9FC-D4A3-4EDE-A943-89A0E21140F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E94B7D-BB21-4A96-BEBC-FA923165D1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E94B7D-BB21-4A96-BEBC-FA923165D1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E94B7D-BB21-4A96-BEBC-FA923165D1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E94B7D-BB21-4A96-BEBC-FA923165D1BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
