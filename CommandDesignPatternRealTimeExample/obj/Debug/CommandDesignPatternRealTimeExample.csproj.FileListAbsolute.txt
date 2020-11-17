@@ -1,0 +1,5 @@
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPatternRealTimeExample\bin\Debug\CommandDesignPatternRealTimeExample.exe.config
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPatternRealTimeExample\bin\Debug\CommandDesignPatternRealTimeExample.exe
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPatternRealTimeExample\bin\Debug\CommandDesignPatternRealTimeExample.pdb
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPatternRealTimeExample\obj\Debug\CommandDesignPatternRealTimeExample.exe
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPatternRealTimeExample\obj\Debug\CommandDesignPatternRealTimeExample.pdb

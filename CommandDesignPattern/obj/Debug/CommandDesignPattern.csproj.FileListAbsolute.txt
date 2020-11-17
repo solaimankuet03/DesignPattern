@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\obj\Debug\CommandDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb
