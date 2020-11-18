@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.pdb
