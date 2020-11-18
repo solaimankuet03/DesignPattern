@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb
