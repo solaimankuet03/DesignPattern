@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPatternRealTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPatternRealTimePaymentExample", "StrategyDesignPatternRealTimePaymentExample\StrategyDesignPatternRealTimePaymentExample.csproj", "{3204E543-7BCC-4BD6-A254-F6FF0550F73B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern", "MediatorDesignPattern\MediatorDesignPattern.csproj", "{AB81E6DF-B556-41A6-9AE7-DD18D6EBBF31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{3204E543-7BCC-4BD6-A254-F6FF0550F73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3204E543-7BCC-4BD6-A254-F6FF0550F73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3204E543-7BCC-4BD6-A254-F6FF0550F73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB81E6DF-B556-41A6-9AE7-DD18D6EBBF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB81E6DF-B556-41A6-9AE7-DD18D6EBBF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB81E6DF-B556-41A6-9AE7-DD18D6EBBF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB81E6DF-B556-41A6-9AE7-DD18D6EBBF31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
