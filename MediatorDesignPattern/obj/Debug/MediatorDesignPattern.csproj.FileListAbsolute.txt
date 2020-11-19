@@ -1,0 +1,6 @@
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\bin\Debug\MediatorDesignPattern.exe.config
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\bin\Debug\MediatorDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\bin\Debug\MediatorDesignPattern.pdb
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\obj\Debug\MediatorDesignPattern.csprojResolveAssemblyReference.cache
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\obj\Debug\MediatorDesignPattern.exe
+C:\Learning\Git Work\DesignPatternsWork\MediatorDesignPattern\obj\Debug\MediatorDesignPattern.pdb
