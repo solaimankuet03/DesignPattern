@@ -28,6 +28,9 @@ namespace MediatorDesignPattern
             User Dave = new ConcreteUser(Mediator, "Dave");
             User Rajesh = new ConcreteUser(Mediator, "Rajesh");
 
+            Mediator.RegisterUser(Dave);
+            Mediator.RegisterUser(Rajesh);
+
             Dave.Send("dotnettutorials.net - this website is very good to learn Design Pattern");
             Console.WriteLine();
             Rajesh.Send("What is Design Patterns? Please explain ");
